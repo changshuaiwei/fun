@@ -1,4 +1,3 @@
-# Project 4: Reinforcement Learning
 ## Train a Smartcab How to Drive
 
 ### Install
@@ -17,4 +16,4 @@ In a terminal or command window, navigate to the top-level project directory `sm
 ```python smartcab/agent.py```  
 ```python -m smartcab.agent```
 
-This will run the `agent.py` file and execute your agent code.
+This will run the `agent.py` file and execute agent code.
