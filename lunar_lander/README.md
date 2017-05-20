@@ -1,4 +1,4 @@
-# rldm-project-2
+# lunar lander
 
 qmemory.py define class for experience replay
 
