@@ -1,0 +1,32 @@
+Bias for regression is [ 0.55509872]
+
+
+Weights for regression is
+                                    0
+right_no                    -0.188396
+forward_no                  -0.842783
+left_no                     -0.115965
+next_right                   0.441135
+next_forward                 0.825841
+next_left                    0.594713
+right                        0.046000
+forward                      0.850888
+left                         0.313370
+right_no_action_right       -0.172964
+right_no_action_forward     -0.015616
+right_no_action_left         0.000410
+forward_no_action_right      0.501300
+forward_no_action_forward   -2.134080
+forward_no_action_left      -0.803357
+left_no_action_right         0.498663
+left_no_action_forward      -1.269164
+left_no_action_left         -0.935970
+next_right_action_right      1.808271
+next_right_action_forward   -0.892596
+next_right_action_left      -0.634323
+next_forward_action_right   -1.200404
+next_forward_action_forward  2.111136
+next_forward_action_left    -0.404125
+next_left_action_right      -0.561841
+next_left_action_forward    -0.367630
+next_left_action_left        1.351861
